@@ -3,10 +3,6 @@
  */
 package donate4life;
 
-/**
- *
- * @author User
- */
 public class linkedlist {
     
   String name;
